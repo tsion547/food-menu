@@ -1,0 +1,9 @@
+venv/
+testenv/
+__pycache__/
+*.pyc
+instance/
+orders.db
+.env
+static/images/uploads/*
+!static/images/uploads/.gitkeep
